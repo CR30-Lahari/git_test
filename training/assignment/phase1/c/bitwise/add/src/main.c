@@ -33,4 +33,5 @@ int main()
 	res = add(num1_int, num2_int);	//!function call to add function to add the 2 numbers using bitwise operators
 	printf("%d + %d = %d\n", num1_int, num2_int, res);
 	return 0; //! @return return 0 on success
+
 }
